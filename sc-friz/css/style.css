@@ -1,0 +1,119 @@
+body{
+    color: black;
+    background-color: whitesmoke;
+    font-family: 'Open Sans', sans-serif;
+    background-image: url(../images/bg.webp);
+    background-position: top left;
+    background-repeat: repeat;
+}
+
+.row{
+    background-color: whitesmoke;
+    border: 3px dashed #424242;
+}
+
+.NoP{
+    padding: 0;
+}
+
+.NoPr{
+    padding-right: 0;
+}
+
+.NoMP{
+    margin: 0;
+    padding: 0;
+}
+
+.logo{
+    
+    width: 100%;
+    height: auto;
+}
+
+.marginTop{
+    margin-top: 10px;
+}
+
+.padding8p{
+    padding:8%;
+}
+
+.navbar-logo{
+    width: 100%;
+    display: block;
+}
+
+h1{
+    font-size: 22px;
+    text-align: center;
+    display: block;
+    color: black;
+    font-weight: bolder;
+    background-color: whitesmoke;
+    border: 3px dashed #424242;
+}
+
+.navbar-logo:hover{
+    text-decoration: none;
+}
+
+h2{
+    font-style: italic;
+}
+
+.bg-dark{
+    background-color: transparent!important;
+}
+
+.map-responsive {
+    overflow: hidden;
+    position: relative;
+    height: 300px;
+}
+
+.txtC{
+    text-align: center;
+}
+
+.sleft{
+    position: absolute;
+    left:0;
+}
+
+.sright{
+    position: absolute;
+    right:0;
+}
+
+#author {
+    margin: 0 auto;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: 10px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    background-color: #424242;
+    box-shadow: 0 0 22px -5px rgba(0,0,0,.53);
+    text-align: center;
+    font-size: 14px;
+    font-family: 'Roboto', sans-serif;
+}
+
+#author a {
+    color: #fff;
+    text-decoration: underline;
+}
+
+#brand{
+    width: 100%;
+    display: block;
+    background-color: white;
+    color: black;
+    text-align:center;
+    font-family: 'Roboto',sans-serif;
+}
+
+.borderE{
+    border: 3px dashed #424242;
+}
